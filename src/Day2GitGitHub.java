@@ -24,6 +24,7 @@ public class Day2GitGitHub {
      */
     public static void main(String[] args) {
         System.out.println("Branch 1. deneme");
+        System.out.println("Master 1. deneme");
     }
 
 }
