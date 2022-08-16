@@ -19,7 +19,7 @@ public class Day2GitGitHub {
          NOT: git log --oneline -->Commitlerimdeki yani versionlarimdaki durumu gosterir.
 
     6-git pull -->Remote(yani uzak repo ) dosyalarimizi guncellemek icin kullanilir
-
+     NOT:Github ogrendim
 
      */
     public static void main(String[] args) {
